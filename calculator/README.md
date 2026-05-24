@@ -3,10 +3,9 @@
 A simple and beginner-friendly calculator application developed using **MIT App Inventor**.  
 This app performs basic arithmetic operations with an easy-to-use mobile interface.
 
-<p align="center">
+<div align="center">
   <img src="../images/calc.png" width="300">
-</p>
-
+</div>
 
 ---
 
@@ -19,11 +18,9 @@ This app performs basic arithmetic operations with an easy-to-use mobile interfa
 - Clear button functionality
 - Simple and clean UI
 
-
-<p align="center">
-  <img src="../images/calc_code.png" width="300">
-</p>
-
+<div align="center">
+  <img src="../images/calc_code.png" width="500" height="800">
+</div>
 
 ---
 
