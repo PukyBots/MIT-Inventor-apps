@@ -34,8 +34,9 @@ Mobile application to control an Arduino-based robot car using Bluetooth communi
 ### 👴 Eldercare
 An assistive application focused on elderly care and safety features integrated with embedded and robotic systems.
 
-### 👴 Timer
+### Timer
 A simple timer application using Start, Stop, and Reset controls with real-time second increments.
+
 ---
 
 ## 🚀 Features
