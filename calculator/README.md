@@ -19,7 +19,7 @@ This app performs basic arithmetic operations with an easy-to-use mobile interfa
 - Simple and clean UI
 
 <div align="center">
-  <img src="../images/calc_code.png" width="500" height="800">
+  <img src="../images/calc_code.png" width="700" height="1000">
 </div>
 
 ---

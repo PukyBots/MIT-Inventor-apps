@@ -48,6 +48,12 @@ The app demonstrates timer functionality using Start, Stop, and Reset controls w
   0
   ```
 
+<div align="center">
+
+  <img src="../images/timer.gif" width="300" height="600">
+
+</div>
+
 ---
 
 ## 📚 Learning Objectives
